@@ -20,6 +20,11 @@ This project predicts Titanic passenger survival using a Logistic Regression mod
 
 ## Installation
 To run this project, install the necessary libraries:
+- `pandas`
+- `numpy`
+- `seaborn`
+- `matplotlib`
+- `scikit-learn`
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
