@@ -23,12 +23,12 @@ To run this project, install the necessary libraries:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+```
 
-
-# Files
+## Files
   train.csv: Contains training data with survival labels.
   test.csv: Contains test data for predictions.
   submission_clf.csv: File with predictions for the test dataset.
   
-# Results
+## Results
 The model achieved an accuracy of approximately 78.15% on the validation set.
